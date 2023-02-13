@@ -1,0 +1,6 @@
+1/ Success
+2/ Warning
+3/ Danger
+4/ Not found
+5/ Error
+

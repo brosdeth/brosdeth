@@ -1,0 +1,31 @@
+  .report_print{
+    padding-left: 50px;
+    padding-right: 50px;
+  } 
+  .report_print .report_header {
+    padding: 30px;
+  }
+  .report_print .report_header .logo {
+    width: 150px;
+  }
+  .report_print .table_fixed .fixed_head{
+    border-top: 1px solid #eee ;
+    border-bottom: 1px solid #eee ;
+  }
+  .table-responsive{ overflow: unset!important; }
+
+
+  /* ********************
+  **** small invoice */
+  .small-invoice{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .small-invoice tr th,
+  .small-invoice tr td{
+    font-size: 13px;
+  }
+  @page{
+    margin-left: 0;
+    margin-right: 0;
+  }
